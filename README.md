@@ -1,6 +1,6 @@
 ## Introduction
 
-I'm Marcos Zea, a passionate software developer from Spain. I enjoy solving complex problems and learning new technologies. My goal is to become a game developer.
+I'm Marcos Zea, a passionate software developer from Spain. I enjoy solving complex problems and learning new technologies. My goal is to become a software and game developer.
 
 ## Education and Certifications
 
@@ -16,7 +16,7 @@ How to reach me: <a href="mailto:marcoszea@gmail.com">marcoszea@gmail.com</a>
 
 <p align="center" dir="auto">
 	<a href="https://skillicons.dev" rel="nofollow">
-		<img src="https://skillicons.dev/icons?i=c,linux,github,godot,js,html,css,php,mysql,bootstrap" style="max-width: 100%;">
+		<img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,godot,js,html,css,php,mysql,bootstrap" style="max-width: 100%;">
 	</a>
 </p>
 
