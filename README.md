@@ -12,11 +12,19 @@ I'm Marcos Zea, a passionate software developer from Spain. I enjoy solving comp
 
 How to reach me: <a href="mailto:marcoszea@gmail.com">marcoszea@gmail.com</a>
 
-## Skills I'm Currently Acquiring
+## Skills Adquired
 
 <p align="center" dir="auto">
 	<a href="https://skillicons.dev" rel="nofollow">
-		<img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,godot,js,html,css,php,mysql,bootstrap" style="max-width: 100%;">
+		<img src="https://skillicons.dev/icons?i=c,bash,git,github,js,html,css,php,mysql,bootstrap" style="max-width: 100%;">
+	</a>
+</p>
+
+## Skills I'm Currently Learning
+
+<p align="center" dir="auto">
+	<a href="https://skillicons.dev" rel="nofollow">
+		<img src="https://skillicons.dev/icons?i=cpp,godot,vite,react,symfony" style="max-width: 100%;">
 	</a>
 </p>
 
