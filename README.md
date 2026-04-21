@@ -1,36 +1,48 @@
 ## Introduction
 
-I'm Marcos Zea, a passionate software developer from Spain. I enjoy solving complex problems and learning new technologies. My goal is to become a software and game developer.
+I'm Marcos Zea, a software developer from Spain specializing in frontend architecture and technical leadership. I design scalable applications, mentor teams, and architect infrastructure solutions. Currently working as a **Frontend Lead**, making critical technology and talent decisions for modern web applications.
 
-## Education and Certifications
+## Education & Experience
 
- - 🌱 I'm enrolled in the software development program at [42 Málaga](https://www.42malaga.com/).
- - 🎓 Certified as a full stack developer.
- - 👾 Actively self-learning the Godot engine for game development.
+ - ✅ **[42 Málaga](https://www.42malaga.com/)** - Project-based curriculum with peer-to-peer learning and complex problem-solving (no traditional lectures)
+ - 🎓 Higher Degree in Web Development and Design (Grado Superior)
+ - 👨‍💼 Frontend Lead (1+ years) - Technology selection, architecture decisions, team composition
 
-## Contact Me
+## Technical Skills
 
-How to reach me: <a href="mailto:marcoszea@gmail.com">marcoszea@gmail.com</a>
-
-## Skills Adquired
+**Frontend & Architecture** (Specialized)
 
 <p align="center" dir="auto">
 	<a href="https://skillicons.dev" rel="nofollow">
-		<img src="https://skillicons.dev/icons?i=c,bash,git,github,js,html,css,php,mysql,bootstrap" style="max-width: 100%;">
+		<img src="https://skillicons.dev/icons?i=react,typescript,tailwindcss,vite,git,github" style="max-width: 100%;">
 	</a>
 </p>
 
-## Skills I'm Currently Learning
+**Full Stack & Infrastructure**
 
 <p align="center" dir="auto">
 	<a href="https://skillicons.dev" rel="nofollow">
-		<img src="https://skillicons.dev/icons?i=cpp,godot,vite,react,symfony" style="max-width: 100%;">
+		<img src="https://skillicons.dev/icons?i=docker,c,cpp,bash,js,html,css,php,bootstrap" style="max-width: 100%;">
 	</a>
 </p>
 
-## Projects and Contributions
+**Currently Learning**
 
-I'm currently working on several projects, including a game developed with the Godot engine. I also contribute to open-source projects on GitHub. You can check out my work [here](https://github.com/MarcosZeaMoreno).
+<p align="center" dir="auto">
+	<a href="https://skillicons.dev" rel="nofollow">
+		<img src="https://skillicons.dev/icons?i=godot,sqlitey" style="max-width: 100%;">
+	</a>
+</p>
+
+## Projects & Open Source
+
+I maintain a self-hosted server infrastructure with multiple services and applications. I'm passionate about software architecture, clean code, and infrastructure automation. I actively contribute to open-source projects and share my knowledge with the developer community.
+
+Explore my work on [GitHub](https://github.com/MarcosZeaMoreno?tab=repositories).
+
+## Contact
+
+📧 [marcoszea@gmail.com](mailto:marcoszea@gmail.com)
 
 ## GitHub Stats
 
